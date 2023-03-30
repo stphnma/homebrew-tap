@@ -1,4 +1,4 @@
-class Tle < Formula
+class S3Tui < Formula
     desc "CLI for navigating AWS S3"
     homepage "https://github.com/stphnma/s3_tui"
     url "https://github.com/stphnma/s3_tui/releases/download/0.1.11/s3_tui.tar.gz"
